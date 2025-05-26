@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/EPlayerServer/readme
+/EPlayerServer/EPlayerServer/obj/x64/Debug
+/EPlayerServer/EPlayerServer/bin/x64/Debug
+/EPlayerServer/.vs/EPlayerServer/CopilotIndices/17.12.38.29086
+/EPlayerServer/.vs/EPlayerServer/FileContentIndex
+/EPlayerServer/.vs/EPlayerServer/v17/ipch/AutoPCH/344ab16e4e39dd89
+/EPlayerServer/.vs/EPlayerServer/v17/ipch/AutoPCH/76c130b01cca7a4b
+/EPlayerServer/.vs/EPlayerServer/v17
